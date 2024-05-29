@@ -1,4 +1,5 @@
-<img src="https://www.ResTechAI.com/images/logo.png" alt="logo ResTech AI" width="20rem" height="20rem">
+<img src="https://www.ResTechAI.com/images/logo.png" alt="logo ResTech AI" width="50rem" height="50rem">
+
 # About us
 At ResTech AI Corporation, we believe that Generative AI has the potential to revolutionize the way businesses operate. Our rapid innovation platform, ezGPT  (Enterprize Generative AI Platform for Digital Transformation) with a layer of pre-built industry solutions make it easy for businesses and government agencies of all sizes to harness the power of Generative AI to achieve remarkable results.
 
